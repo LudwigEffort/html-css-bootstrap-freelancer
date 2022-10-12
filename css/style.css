@@ -9,3 +9,30 @@ body    {
 .bg_navbar  {
     background-color: #2C3E50;
 }
+
+.img_style  {
+    width: 50%;
+    margin-bottom: 1rem;
+}
+
+.star_line  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar_style   {
+    display: block;
+    width: 150px;
+    height: 4px;
+    border-radius: 1rem;
+}
+
+.star_line i    {
+    font-size: 30pt;
+    margin: 1rem;
+}
+
+.bg-white   {
+    background-color: white;
+}
